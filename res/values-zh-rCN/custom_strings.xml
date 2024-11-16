@@ -1987,4 +1987,9 @@
     <!-- Carrier name on lockscreen -->
     <string name="lockscreen_show_carrier_title">运营商名称</string>
     <string name="lockscreen_show_carrier_summary">在状态栏中显示运营商名称</string>
+    
+     <!-- Statusbar lyric -->
+    <string name="status_bar_lyric_title">状态栏歌词</string>
+    <string name="status_bar_lyric_summary">在状态栏上显示歌词 (需要应用程序支持)</string>
+    <string name="status_bar_show_lyric_title">启用状态栏歌词</string>
 </resources>
