@@ -23,10 +23,10 @@ public class StatusbarLyricSettings extends SettingsPreferenceFragment {
     @Override
     public void onCreate(Bundle icicle) {
         super.onCreate(icicle);
-        addPreferencesFromResource(R.xml.status_bar_lyric_settings);
+        addPreferencesFromResource(R.xml.rising_status_bar_lyric_settings);
     }
     @Override
     public int getMetricsCategory() {
-        return MetricsProto.MetricsEvent.DERP;
+        return MetricsProto.MetricsEvent.VIEW_UNKNOWN;
     }
 }
